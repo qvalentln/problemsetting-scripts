@@ -1,1 +1,3 @@
 # problemsettings-scripts
+
+scripturi (banale, dar functionale) pe care le folosesc in elaborarea datelor de test ptr probleme de olimpiada/concursuri
